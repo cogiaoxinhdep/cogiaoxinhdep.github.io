@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/profile.php?id=100000393560870";
+            window.location = "https://vanhiuemnhat.github.io/";
           },
         });
       }
